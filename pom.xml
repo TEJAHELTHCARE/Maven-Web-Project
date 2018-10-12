@@ -92,8 +92,8 @@
 	    </snapshotRepository>
 	</distributionManagement>
 -->
-	<distributionManagement>
-    <repository>
+	<!-- <distributionManagement>
+   <repository>
         <id>Jfrog</id>
         <name>pullareddy-PC-releases</name>
         <url>http://localhost:9005/artifactory/maven-web-jfrog</url>
@@ -103,7 +103,7 @@
         <name>pullareddy-PC-snapshots</name>
         <url>http://localhost:9005/artifactory/maven-web-jfrog</url>
     </snapshotRepository>
-      </distributionManagement>
+      </distributionManagement> -->
 	
   <build>
     <plugins>
