@@ -1,4 +1,4 @@
-#!groovy
+/*#!groovy
 
 node {
 	   
@@ -17,4 +17,4 @@ node {
                     bat 'mvn sonar:sonar'
                 }
        
-}
+}*/
